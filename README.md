@@ -11,7 +11,9 @@
 
 ### ⚙️ GitHub Analytics
 
-<a href="https://github.com/KIMSANGYEOB">
-  <img style="float: left" width="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KIMSANGYEOB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KIMSANGYEOB&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="center">
+  <a href="https://github.com/KIMSANGYEOB">
+    <img style="float: left" width="50%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KIMSANGYEOB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KIMSANGYEOB&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+  </p>
